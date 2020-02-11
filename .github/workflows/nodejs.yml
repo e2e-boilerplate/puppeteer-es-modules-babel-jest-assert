@@ -1,4 +1,4 @@
-name: puppeteer-es6-modules-babeljs-jest-expect
+name: puppeteer-es6-modules-babeljs-jest-assert
 
 on: 
   push:
