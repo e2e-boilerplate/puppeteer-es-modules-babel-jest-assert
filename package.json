@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-es6modules-babel-jest",
+  "name": "puppeteer-es6modules-babel-jest-assert",
   "version": "1.0.0",
   "description": "Puppeteer end-to-end test automation boilerplate project. Using ES6 modules, babel and jest.",
   "scripts": {
