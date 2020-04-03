@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/issues"
   },
   "dependencies": {
-    "jest": "25.2.6",
+    "jest": "25.2.7",
     "puppeteer": "2.1.1"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using ES Modules, Babel, Jest and Assert.",
