@@ -1,0 +1,11 @@
+| referrer                                                                      | count | uniques |
+| :---------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert                       | 5     | 2       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/runs/526341619        | 3     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/runs/526337700        | 2     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/actions               | 1     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/actions/runs/61115907 | 1     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/blob/master/LICENSE   | 1     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/pull/15               | 1     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/runs/526350048        | 1     | 1       |
+| /e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/runs/526351609        | 1     | 1       |
