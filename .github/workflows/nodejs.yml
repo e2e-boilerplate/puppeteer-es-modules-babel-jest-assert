@@ -2,7 +2,7 @@ name: puppeteer-es-modules-babel-jest-assert
 'on':
   push: null
   schedule:
-    - cron: 5 1 2-31/2 * *
+    - cron: 59 3 2-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
