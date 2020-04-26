@@ -1,2 +1,0 @@
-| referrer | count | uniques |
-| :------- | :---- | :------ |
