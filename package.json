@@ -35,14 +35,15 @@
   "keywords": [
     "assert",
     "babel",
-    "boilerplate",
+    "es modules",
+    "jest",
+    "puppeteer",
     "e2e",
     "e2e tests",
-    "es modules",
-    "example",
+    "boilerplate",
     "integration test",
-    "jest",
-    "puppeteer"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
