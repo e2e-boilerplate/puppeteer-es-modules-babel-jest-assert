@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "jest": "26.4.2",
-    "puppeteer": "5.2.1"
+    "puppeteer": "5.3.0"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using ES Modules, Babel, Jest and Assert.",
   "devDependencies": {
