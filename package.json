@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/puppeteer-es-modules-babel-jest-assert/issues"
   },
   "dependencies": {
-    "jest": "26.6.1",
+    "jest": "26.6.2",
     "puppeteer": "5.4.1"
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using ES Modules, Babel, Jest and Assert.",
@@ -15,7 +15,7 @@
     "@babel/preset-env": "7.12.1",
     "@babel/register": "7.12.1",
     "@babel/runtime": "7.12.1",
-    "babel-jest": "26.6.1",
+    "babel-jest": "26.6.2",
     "eslint": "7.12.1",
     "eslint-config-airbnb-base": "14.2.0",
     "eslint-config-prettier": "6.15.0",
