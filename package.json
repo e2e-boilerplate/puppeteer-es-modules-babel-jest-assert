@@ -9,10 +9,10 @@
   },
   "description": "Puppeteer end-to-end test automation boilerplate. Using ES Modules, Babel, Jest and Assert.",
   "devDependencies": {
-    "@babel/cli": "7.12.13",
-    "@babel/core": "7.12.13",
+    "@babel/cli": "7.12.16",
+    "@babel/core": "7.12.16",
     "@babel/plugin-transform-runtime": "7.12.15",
-    "@babel/preset-env": "7.12.13",
+    "@babel/preset-env": "7.12.16",
     "@babel/register": "7.12.13",
     "@babel/runtime": "7.12.13",
     "babel-jest": "26.6.3",
